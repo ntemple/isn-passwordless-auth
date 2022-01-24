@@ -1,16 +1,16 @@
 <?php
 /**
- * Plugin Name: Passwordless Login
- * Plugin URI: http://www.cozmsolabs.com
+ * Plugin Name: Passwordless Auth
+ * Plugin URI: https://commercestore.com
  * Description: Shortcode based login form. Enter an email/username and get link via email that will automatically log you in.
- * Version: 1.1.1
- * Author: Cozmoslabs, sareiodata
- * Author URI: http:/www.cozmoslabs.com
+ * Version: 2.0.0
+ * Author: ntemple, Cozmoslabs, sareiodata
+ * Author URI: https://intellispire.com
  * License: GPL2
  * Text Domain: passwordless-login
  * Domain Path: /languages
  */
-/* Copyright Cozmoslabs.com
+/* Copyright Cozmoslabs.com, Intellispire.com
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
@@ -25,8 +25,6 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 */
-
-// Start writing code after this line!
 
 
 /**
